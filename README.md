@@ -32,4 +32,4 @@
 ## **How to Use These Projects**
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/ibrahimali28/DATA-Analysis-for-Dewli_Sales-/blob/main/README.md
