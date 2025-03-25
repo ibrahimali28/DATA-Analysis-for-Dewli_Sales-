@@ -1,5 +1,5 @@
 # DATA-Analysis-for-Dewli_Sales-
-# Python Projects Portfolio
+# Python Data Analysis for Dewli Sales Projects
 
 ## **1. Data Cleaning and Manipulation**
 - **Description**: Performed extensive data cleaning and manipulation to prepare datasets for analysis. This included handling missing values, removing duplicates, and standardizing data formats.
